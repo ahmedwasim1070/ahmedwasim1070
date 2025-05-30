@@ -1,5 +1,5 @@
 <h1 align="center">🟨⬛⬜ Muhammad Ahmad</h1>
-<h3 align="center">MERN Stack Developer | Python & C++ Programmer | Go Enthusiast 🚀</h3>
+<h3 align="center">MERN Stack Developer | Python & C++ Programmer 🚀</h3>
 
 <p align="center">💻 Passionate Full Stack Engineer building modern web apps with the MERN stack.<br/>
 🧠 Experienced with Python & C++ for backend logic & problem-solving.<br/>
