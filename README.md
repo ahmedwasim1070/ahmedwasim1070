@@ -1,82 +1,118 @@
-<h1 align="center">🟨⬛⬜ Muhammad Ahmad</h1>
-<h3 align="center">MERN Stack Developer | Python & C++ Programmer 🚀</h3>
+<div align="center">
 
-<p align="center">💻 Passionate Full Stack Engineer building modern web apps with the MERN stack.<br/>
-🧠 Experienced with Python & C++ for backend logic & problem-solving.<br/>
-🌱 Currently learning <strong>Go (Golang)</strong> for high-performance backend systems & microservices.<br/>
-📌 Also exploring GraphQL for flexible APIs.</p>
+# 🟡 Muhammad Ahmad 🟡
+### `> GAME_MODE: FULL_STACK_DEVELOPER`
+### `> LEVEL: MERN_MASTER | PYTHON_EXPERT | GO_LEARNER`
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ahmedwasim1070/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-  <a href="https://leetcode.com/u/ahmedwasim1070/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40"/>
-  </a>
-</p>
+```
+🟡 • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 👻
+   PAC-DEV eating bugs and building awesome web apps!
+```
 
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<p align="left">
-  <!-- Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-  <!-- Programming Languages -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="golang" width="40" height="40"/>
-  </a>
+</div>
 
-  <!-- Tools & Design -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
-  </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
-  </a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+---
+
+## 🎮 PLAYER STATS
+
+```ascii
+┌─────────────────────────────────────────────┐
+│  🟡 PAC-DEV STATUS: ACTIVE                  │
+│  💻 CURRENT QUEST: Building Modern Web Apps │
+│  🧠 SPECIAL SKILLS: Problem Solving Expert  │
+│  🌱 LEARNING: Go (Golang) & GraphQL        │
+│  📍 LOCATION: Pakistan 🇵🇰                  │
+└─────────────────────────────────────────────┘
+```
+
+---
+
+## 🕹️ POWER-UPS (TECH STACK)
+
+### 🍒 FRONTEND FRUITS
+```
+🟡 ••• HTML5        🟡 ••• CSS3         🟡 ••• JavaScript
+🟡 ••• React        🟡 ••• TailwindCSS  🟡 ••• Bootstrap
+```
+
+### 👻 BACKEND GHOSTS
+```
+🔵 ••• Node.js      🔵 ••• Express.js   🔵 ••• MongoDB
+🔵 ••• Python       🔵 ••• C++          🔵 ••• Go (Learning)
+```
+
+### 🍓 BONUS ITEMS
+```
+🟠 ••• Git          🟠 ••• Figma        🟠 ••• Photoshop
+🟠 ••• Illustrator  🟠 ••• Blender      🟠 ••• Linux
+```
+
+---
+
+## 🏆 ACHIEVEMENTS UNLOCKED
+
+<div align="center">
+
+| 🏅 Achievement | 📊 Progress | 🎯 Next Level |
+|---------------|-------------|---------------|
+| **MERN Master** | ████████░░ 80% | Full Stack Ninja |
+| **Python Wizard** | ███████░░░ 70% | ML Engineer |
+| **Problem Solver** | █████████░ 90% | Algorithm Master |
+| **Go Explorer** | ███░░░░░░░ 30% | Microservices Pro |
+
+</div>
+
+---
+
+## 🎯 CURRENT MISSION
+
+```
+🟡 → → → 👻 HUNTING BUGS IN PRODUCTION
+🟡 → → → 🍒 COLLECTING NEW FRAMEWORKS  
+🟡 → → → 💎 BUILDING SCALABLE APPLICATIONS
+🟡 → → → 🌟 MASTERING GO & GRAPHQL
+```
+
+---
+
+## 🌐 CONNECT & COLLABORATE
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/ahmedwasim1070/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000)](https://leetcode.com/u/ahmedwasim1070/)
+
+**🟡 Ready to team up? Let's build something amazing together! 🟡**
+
+</div>
+
+---
+
+## 📈 GAME STATISTICS
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&icon_color=FFD700&text_color=FFFFFF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+🟡 • • • • • • • THANKS FOR VISITING! • • • • • • • 🟡
+        Ready Player One? Let's code together!
+```
+
+**GAME OVER?** *Press F5 to continue!* 
+
+---
+
+*"In the game of code, there are no final bosses, only new levels to unlock!"*
+
+</div>
