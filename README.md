@@ -2,7 +2,7 @@
 
 # 🟡 Muhammad Ahmad 🟡
 ### `> GAME_MODE: FULL_STACK_DEVELOPER`
-### `> LEVEL: MERN_MASTER | PYTHON_EXPERT | GO_LEARNER`
+### `> LEVEL: MERN | PYTHON | C++`
 
 ```
 🟡 • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 👻
