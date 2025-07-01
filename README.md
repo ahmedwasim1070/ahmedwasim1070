@@ -6,7 +6,7 @@
 
 ```
 🟡 • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 👻
-   PAC-DEV eating bugs and building awesome web apps!
+   
 ```
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
@@ -19,60 +19,34 @@
 
 ```ascii
 ┌─────────────────────────────────────────────┐
-│  🟡 PAC-DEV STATUS: ACTIVE                  │
-│  💻 CURRENT QUEST: Building Modern Web Apps │
-│  🧠 SPECIAL SKILLS: Problem Solving Expert  │
-│  🌱 LEARNING: Go (Golang) & GraphQL        │
-│  📍 LOCATION: Pakistan 🇵🇰                  │
+│  🟡 DEV-STATUS: Dedicated No Lifer          │
+│  💻 SETUP: Use Arch btw with NVIM btw       │
+│  🧠 LANGS: JS , Python , C++                │
+│  🌱 LEARNING: Go (Golang) & GraphQL         │
+│  📍 LOCATION: Pakistan 🇵🇰                   │
 └─────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🕹️ POWER-UPS (TECH STACK)
+## 🕹️ DEV-SPECS (TECH STACK)
 
-### 🍒 FRONTEND FRUITS
+### 🍒 SMALL FRUITS
 ```
 🟡 ••• HTML5        🟡 ••• CSS3         🟡 ••• JavaScript
-🟡 ••• React        🟡 ••• TailwindCSS  🟡 ••• Bootstrap
+🟡 ••• React        🟡 ••• TailwindCSS  🟡 ••• Lua
 ```
 
-### 👻 BACKEND GHOSTS
+### 👻 BIG-T
 ```
-🔵 ••• Node.js      🔵 ••• Express.js   🔵 ••• MongoDB
+🔵 ••• Node.js      🔵 ••• Express.js   🔵 ••• NO-SQL
 🔵 ••• Python       🔵 ••• C++          🔵 ••• Go (Learning)
 ```
 
-### 🍓 BONUS ITEMS
+### 🍓 FLEX
 ```
-🟠 ••• Git          🟠 ••• Figma        🟠 ••• Photoshop
+🟠 ••• Arch Btw     🟠 ••• NVIM Btw     🟠 ••• Figma
 🟠 ••• Illustrator  🟠 ••• Blender      🟠 ••• Linux
-```
-
----
-
-## 🏆 ACHIEVEMENTS UNLOCKED
-
-<div align="center">
-
-| 🏅 Achievement | 📊 Progress | 🎯 Next Level |
-|---------------|-------------|---------------|
-| **MERN Master** | ████████░░ 80% | Full Stack Ninja |
-| **Python Wizard** | ███████░░░ 70% | ML Engineer |
-| **Problem Solver** | █████████░ 90% | Algorithm Master |
-| **Go Explorer** | ███░░░░░░░ 30% | Microservices Pro |
-
-</div>
-
----
-
-## 🎯 CURRENT MISSION
-
-```
-🟡 → → → 👻 HUNTING BUGS IN PRODUCTION
-🟡 → → → 🍒 COLLECTING NEW FRAMEWORKS  
-🟡 → → → 💎 BUILDING SCALABLE APPLICATIONS
-🟡 → → → 🌟 MASTERING GO & GRAPHQL
 ```
 
 ---
@@ -95,14 +69,14 @@
 <div align="center">
 
 ```
-🟡 • • • • • • • THANKS FOR VISITING! • • • • • • • 🟡
+🟡 • • • • • • • THANKS FOR WATCHING! • • • • • • • 🟡
         Ready Player One? Let's code together!
 ```
 
-**GAME OVER?** *Press F5 to continue!* 
+**GAME OVER?** *F5 to the top!* 
 
 ---
 
-*"In the game of code, there are no final bosses, only new levels to unlock!"*
+*" <> </> "*
 
 </div>
