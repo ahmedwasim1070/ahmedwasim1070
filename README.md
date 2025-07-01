@@ -1,8 +1,8 @@
 <div align="center">
 
 # 🟡 Muhammad Ahmad 🟡
-### `> GAME_MODE: FULL_STACK_DEVELOPER`
-### `> LEVEL: MERN | PYTHON | C++`
+### `FULL_STACK_DEVELOPER`
+### `MERN | PYTHON | C++`
 
 ```
 🟡 • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 👻
@@ -61,8 +61,6 @@
 **🟡 Ready to team up? Let's build something amazing together! 🟡**
 
 </div>
-
----
 
 ---
 
