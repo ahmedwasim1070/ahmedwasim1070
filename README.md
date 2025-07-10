@@ -45,8 +45,8 @@
 
 ### 🍓 FLEX
 ```
-🟠 ••• Arch Btw     🟠 ••• NVIM Btw     🟠 ••• Figma
-🟠 ••• Illustrator  🟠 ••• Blender      🟠 ••• Linux
+🟠 ••• Docker       🟠 ••• NVIM Btw     🟠 ••• Figma
+🟠 ••• Photoshop    🟠 ••• Blender      🟠 ••• Linux
 ```
 
 ---
