@@ -20,7 +20,7 @@
 ```ascii
 ┌─────────────────────────────────────────────┐
 │  🟡 DEV-STATUS: Dedicated No Lifer          │
-│  💻 SETUP: Use Arch btw with NVIM btw       │
+│  💻 SETUP: Use Arch/NVIM btw.               │
 │  🧠 LANGS: JS , Python , C++                │
 │  🌱 LEARNING: Go (Golang) & GraphQL         │
 │  📍 LOCATION: Pakistan 🇵🇰                   │
