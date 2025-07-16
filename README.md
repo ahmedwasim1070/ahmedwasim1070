@@ -19,10 +19,10 @@
 
 ```ascii
 ┌─────────────────────────────────────────────┐
-│  🟡 DEV-STATUS: Dedicated No Lifer          │
-│  💻 SETUP: Use Arch/NVIM btw.               │
+│  🟡 DEV-STATUS: Learning...                 │
+│  💻 SETUP: Arch / Hyprland / NVIM , VS code │
 │  🧠 LANGS: JS , Python , C++                │
-│  🌱 LEARNING: Go (Golang) & GraphQL         │
+│  🌱 LEARNING: Go & GraphQL                  │
 │  📍 LOCATION: Pakistan 🇵🇰                   │
 └─────────────────────────────────────────────┘
 ```
@@ -31,22 +31,22 @@
 
 ## 🕹️ DEV-SPECS (TECH STACK)
 
-### 🍒 SMALL FRUITS
+### 🍒 Constant Complexity
 ```
 🟡 ••• HTML5        🟡 ••• CSS3         🟡 ••• JavaScript
 🟡 ••• React        🟡 ••• TailwindCSS  🟡 ••• Lua
 ```
 
-### 👻 BIG-T
+### 👻 Linear Complexity
 ```
-🔵 ••• Node.js      🔵 ••• Express.js   🔵 ••• NO-SQL
-🔵 ••• Python       🔵 ••• C++          🔵 ••• Go (Learning)
+🔵 ••• Typescript   🔵 ••• GO(Learning) 🔵 ••• Next.js
+🔵 ••• Express.js   🔵 ••• C++          🔵 ••• Python
 ```
 
-### 🍓 FLEX
+### 🍓 OTHERS
 ```
-🟠 ••• Docker       🟠 ••• NVIM Btw     🟠 ••• Figma
-🟠 ••• Photoshop    🟠 ••• Blender      🟠 ••• Linux
+🟠 ••• SQL/No-SQL   🟠 ••• MongoDB      🟠 ••• PostgreSQL
+🟠 ••• Docker       🟠 ••• AWS          🟠 ••• Netlify/Vercel
 ```
 
 ---
