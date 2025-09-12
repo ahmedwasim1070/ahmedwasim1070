@@ -1,8 +1,8 @@
 <div align="center">
 
 # 🟡 Muhammad Ahmad 🟡
-### `FULL_STACK_DEVELOPER`
-### `MERN | PYTHON | C++`
+### `FULL_STACK_ENGINEER`
+### `Learning and Building`
 
 ```
 🟡 • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 👻
@@ -19,10 +19,10 @@
 
 ```ascii
 ┌─────────────────────────────────────────────┐
-│  🟡 DEV-STATUS: Learning...                 │
-│  💻 SETUP: Arch / Hyprland / NVIM , VS code │
-│  🧠 LANGS: JS , Python , C++                │
-│  🌱 LEARNING: Go & GraphQL                  │
+│  🟡 DEV-STATUS: Looking for Job )           │
+│  💻 SETUP: WSL Debian / Nvim / Vs,code      │
+│  🧠 LANGS: TS , Python , Go                 │
+│  🌱 LEARNING: Go )                          │
 │  📍 LOCATION: Pakistan 🇵🇰                   │
 └─────────────────────────────────────────────┘
 ```
@@ -31,13 +31,13 @@
 
 ## 🕹️ DEV-SPECS (TECH STACK)
 
-### 🍒 Constant Complexity
+### 🍒 Frontend Langs & Framework's : 
 ```
 🟡 ••• HTML5        🟡 ••• CSS3         🟡 ••• JavaScript
 🟡 ••• React        🟡 ••• TailwindCSS  🟡 ••• Lua
 ```
 
-### 👻 Linear Complexity
+### 👻 Backend Lang's & Framework's
 ```
 🔵 ••• Typescript   🔵 ••• GO(Learning) 🔵 ••• Next.js
 🔵 ••• Express.js   🔵 ••• C++          🔵 ••• Python
@@ -67,11 +67,11 @@
 <div align="center">
 
 ```
-🟡 • • • • • • • THANKS FOR WATCHING! • • • • • • • 🟡
+🟡 • • • • • • • • • • • • • • • 🟡
         Ready Player One? Let's code together!
 ```
 
-**GAME OVER?** *F5 to the top!* 
+**TO REPO'S** */ to Search!* 
 
 ---
 
