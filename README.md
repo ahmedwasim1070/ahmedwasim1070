@@ -58,7 +58,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/ahmedwasim1070/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000)](https://leetcode.com/u/ahmedwasim1070/)
 
-**🟡 Ready to team up? Let's build something amazing together! 🟡**
+**🟡 <></> 🟡**
 
 </div>
 
@@ -67,14 +67,12 @@
 <div align="center">
 
 ```
-🟡 • • • • • • • • • • • • • • • 🟡
-        Ready Player One? Let's code together!
+🟡 • • • • • • • • • • • • • • • • • • 🟡
+
 ```
 
-**TO REPO'S** */ to Search!* 
+**TO REPO'S :** */ to Search!* 
 
 ---
-
-*" <> </> "*
 
 </div>
