@@ -21,8 +21,8 @@
 ┌─────────────────────────────────────────────┐
 │  🟡 DEV-STATUS: Looking for Job )           │
 │  💻 SETUP: WSL Debian / Nvim / Vs,code      │
-│  🧠 LANGS: TS , Python , Go                 │
-│  🌱 LEARNING: Go )                          │
+│  🧠 LANGS: TS , Python , Go , C#            │
+│  🌱 LEARNING: Go ) / C#                     │
 │  📍 LOCATION: Pakistan 🇵🇰                   │
 └─────────────────────────────────────────────┘
 ```
@@ -40,7 +40,7 @@
 ### 👻 Backend Lang's & Framework's
 ```
 🔵 ••• Typescript   🔵 ••• GO(Learning) 🔵 ••• Next.js
-🔵 ••• Express.js   🔵 ••• C++          🔵 ••• Python
+🔵 ••• Express.js   🔵 ••• C#(Learning) 🔵 ••• Python
 ```
 
 ### 🍓 OTHERS
