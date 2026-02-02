@@ -19,8 +19,8 @@
 
 ```ascii
 ┌─────────────────────────────────────────────┐
-│  🟡 DEV-STATUS: Looking for Job )           │
-│  💻 SETUP: WSL Debian / Nvim / Vs,code      │
+│  🟡 DEV-STATUS: Looking for Remote Work     │
+│  💻 SETUP: Arch + KDE / Nvim / Vs,code      │
 │  🧠 LANGS: TS , Python , Go , C#            │
 │  🌱 LEARNING: Go ) / C#                     │
 │  📍 LOCATION: Pakistan 🇵🇰                   │
