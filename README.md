@@ -1,64 +1,13 @@
 <div align="center">
 
-# 🟡 Muhammad Ahmad 🟡
-### `FULL_STACK_ENGINEER`
-### `Learning and Building`
+# 🟡 MUHAMMAD AHMAD 🟡
+### `FULL_STACK_ENGINEER` | `MERN` | `SYSTEMS`
 
-```
-🟡 • • • • • • • • • • • • • • • • • • • • • • • • • • • • • 👻
-   
-```
+<br/>
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
-</div>
-
----
-
-## 🎮 PLAYER STATS
-
-```ascii
-┌─────────────────────────────────────────────┐
-│  🟡 DEV-STATUS: Looking for Remote Work     │
-│  💻 SETUP: Arch + KDE / Nvim / Vs,code      │
-│  🧠 LANGS: TS , Python , Go , C#            │
-│  🌱 LEARNING: Go ) / C#                     │
-│  📍 LOCATION: Pakistan 🇵🇰                   │
-└─────────────────────────────────────────────┘
-```
-
----
-
-## 🕹️ DEV-SPECS (TECH STACK)
-
-### 🍒 Frontend Langs & Framework's : 
-```
-🟡 ••• HTML5        🟡 ••• CSS3         🟡 ••• JavaScript
-🟡 ••• React        🟡 ••• TailwindCSS  🟡 ••• Lua
-```
-
-### 👻 Backend Lang's & Framework's
-```
-🔵 ••• Typescript   🔵 ••• GO(Learning) 🔵 ••• Next.js
-🔵 ••• Express.js   🔵 ••• C#(Learning) 🔵 ••• Python
-```
-
-### 🍓 OTHERS
-```
-🟠 ••• SQL/No-SQL   🟠 ••• MongoDB      🟠 ••• PostgreSQL
-🟠 ••• Docker       🟠 ••• AWS          🟠 ••• Netlify/Vercel
-```
-
----
-
-## 🌐 CONNECT & COLLABORATE
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](https://www.linkedin.com/in/ahmedwasim1070/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000)](https://leetcode.com/u/ahmedwasim1070/)
-
-**🟡 <></> 🟡**
+<br/>
 
 </div>
 
@@ -66,13 +15,61 @@
 
 <div align="center">
 
-```
-🟡 • • • • • • • • • • • • • • • • • • 🟡
+## 🕹️ PLAYER STATS
+
+</div>
+
+```yaml
+# 👨‍💻 USER CONFIGURATION -------------------------------------------------------
+User_Name:       "ahmedwasim1070"
+Role:            "Full Stack Engineer"
+Current_Quest:   "Mastering Microservices & System Design"
+OS_Distro:       "Arch Linux (KDE Plasma)"
+Editor:          "Neovim / VS Code"
+
+# 🚀 STATUS -------------------------------------------------------------------
+Looking_For:     "Remote Work & Collaboration"
+Location:        "Pakistan 🇵🇰"
+Learning_Focus:  ["C# (.NET Core)", "Go (Golang)", "Low-Level Systems"]
+Currently_Building: "Garages Automatted Billing Managment System."
 
 ```
-
-**TO REPO'S :** */ to Search!* 
 
 ---
+
+<div align="center">
+
+
+## ⚡ SKILLS
+
+</div>
+
+### 🗣️ LANGUAGES
+
+`JavaScript / TypeScript` `Python` `C++`
+`C# (Learning)` `Go (Learning)` `Lua` `SQL`
+
+### ⚙️ FRAMEWORKS
+
+`Node.js` `Express.js` `Next.js`
+
+### 🖥️ GUIs
+
+`React.js` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3`
+
+### 💾 DBs
+
+`MongoDB` `PostgreSQL` `Supabase` `MySQL`
+
+---
+
+<div align="center">
+
+
+**🟡 < engineer / > 🟡**
+
+🟡 • • • • • • • • • • • • • • • • • • • • • • • 👻
+
+"/" to the Repo Work...
 
 </div>
