@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🟡 MUHAMMAD AHMAD 🟡
-### `FULL_STACK_ENGINEER` | `MERN` | `SYSTEMS`
+### `SOFTWARE_ENGINEER` | `FULL_STACK` | `SYSTEMS`
 
 <br/>
 
