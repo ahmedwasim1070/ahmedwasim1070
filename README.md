@@ -20,19 +20,8 @@
 </div>
 
 ```yaml
-# 👨‍💻 USER CONFIGURATION -------------------------------------------------------
-User_Name:       "ahmedwasim1070"
-Role:            "Full Stack Engineer"
-Current_Quest:   "Mastering Microservices & System Design"
-OS_Distro:       "Arch Linux (KDE Plasma)"
-Editor:          "Neovim / VS Code"
-
-# 🚀 STATUS -------------------------------------------------------------------
-Looking_For:     "Remote Work & Collaboration"
-Location:        "Pakistan 🇵🇰"
-Learning_Focus:  ["C# (.NET Core)", "Go (Golang)", "Low-Level Systems"]
-Currently_Building: "Garages Automatted Billing Managment System."
-
+Interests:       ["Backend", "Low-Level Systems"]
+Learning:        "DOTNET & Devops"
 ```
 
 ---
