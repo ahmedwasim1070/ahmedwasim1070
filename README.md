@@ -13,12 +13,6 @@
 
 ---
 
-<div align="center">
-
-## 🕹️ PLAYER STATS
-
-</div>
-
 ```yaml
 Interests:       ["Backend", "Low-Level Systems"]
 Learning:        "DOTNET & Devops"
